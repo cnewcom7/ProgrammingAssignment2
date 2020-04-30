@@ -2,7 +2,8 @@
 ## functions do
 
 ## Write a short comment describing this function
-## cnewcom7
+## cnewcom7 
+## Developed using makeVector/cachemean examples functions from assignment as templates
 ## makeCacheMatrix takes a matrix argument and cache's its calc'd inverse
 
 makeCacheMatrix <- function(x = matrix()) {
